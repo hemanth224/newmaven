@@ -12,9 +12,6 @@ This project contains a gitignore that will stop most IDE specific files as well
 * After going through the import process we will open the File menu and select Project Structure.
 * Select the Artifacts tab
 * Click the plus (+) sign and add JAR -> Empty.
-* Make sure your output directory at the top is desireable. I usually select bin/ to put the jar
-* Select "Build on Make" checkbox
-* Make sure the manifest is selected
 * Right-click your *.jar inside output layout. Select Add a Copy of -> Module Output
 #just pushin
 #new change
