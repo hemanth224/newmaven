@@ -14,4 +14,4 @@ This project contains a gitignore that will stop most IDE specific files as well
 * Click the plus (+) sign and add JAR -> Empty.
 * Right-click your *.jar inside output layout. Select Add a Copy of -> Module Output
 #just pushin
-#new change is required, one more committ history to
+#new change is required, one more committ history to git
