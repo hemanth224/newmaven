@@ -16,3 +16,4 @@ This project contains a gitignore that will stop most IDE specific files as well
 * Select "Build on Make" checkbox
 * Make sure the manifest is selected
 * Right-click your *.jar inside output layout. Select Add a Copy of -> Module Output
+#just pushin
